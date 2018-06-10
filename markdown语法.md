@@ -27,7 +27,9 @@ _这里是文字_
 
 # markdown插入本地图片示范
 #### markdown插入同级目录下的图片
-![图片描述](C:\Users\tj1\Desktop\3nfs.png)
+![markdown插入图片示范](/3nfs.png)
+#### markdown插入下一层级的图片
+
 
 
 
