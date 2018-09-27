@@ -8,15 +8,10 @@
 
  1. 1
  2. 2
- 3. 3  
- 
- 
- ===
+ 3. 3   
+ ---
  **123456**
- 
- 4. List item
-123
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzNjU4OTYwXX0=
+eyJoaXN0b3J5IjpbLTIwNTg3MDQ2NTldfQ==
 -->
